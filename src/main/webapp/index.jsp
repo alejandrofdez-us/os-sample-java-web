@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World with OpenShift!</h2>
+<h2>Test App from DAW lesson</h2>
 </body>
 </html>
